@@ -1,4 +1,4 @@
-<br/><br/>
+
 <b>Abdulbaki Salaudeen, Junior Software Engineer</b>
 
 I’m currently focused on backend development using Java and Spring Boot, currently building real-world projects and deepening my skills as I grow into a professional software engineer.
