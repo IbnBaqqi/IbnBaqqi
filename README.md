@@ -10,8 +10,7 @@ Learning, improving daily, building scalable, high-performance backend systems a
 Let's connect 🤝
 </div>
 
-> “Code is the closest thing we have to a superpower.”  
-> — Abdulbaki
+> “...by the yard it's hard, but inch by inch anything is a cinch.”
 
 ## Featured Projects
 [StoreAPI](https://github.com/IbnBaqqi/storeApi) – A modular e-commerce backend designed using Service-Repository pattern and follows DDD principles and clean architecture principles for separation of concerns. Built with Java, MySQL and deployed on AWS.
