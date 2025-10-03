@@ -1,7 +1,6 @@
 
 **Software Engineer**
 
-### Stack
+#### Stack
 * languages - C, Java, Kotlin, SQL
-* Frameworks & tools - SpringBoot, Micronaut, AWS, Docker
-* Monitoring & Observability - Prometheus & Grafana
+* Frameworks & tools - Spring & SpringBoot, AWS, Docker, Prometheus & Grafana
