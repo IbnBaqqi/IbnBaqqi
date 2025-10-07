@@ -3,4 +3,4 @@
 
 #### Stack
 * languages - C, Java, Kotlin, SQL
-* Frameworks & tools - Spring & SpringBoot, AWS, Docker, Prometheus & Grafana
+* Frameworks & tools - Spring & SpringBoot, AWS, Docker
